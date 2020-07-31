@@ -1,6 +1,5 @@
 package top.andnux.flutter.flutter_wallets
 
-import top.andnux.flutter.flutter_wallets.IWalletAdapter
 import java.util.*
 
 object WalletFactory {

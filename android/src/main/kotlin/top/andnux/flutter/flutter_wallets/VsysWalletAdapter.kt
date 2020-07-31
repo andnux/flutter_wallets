@@ -1,9 +1,7 @@
 package top.andnux.flutter.flutter_wallets
 
-import android.util.ArrayMap
 import androidx.collection.ArrayMap
 import com.google.gson.Gson
-import top.andnux.flutter.flutter_wallets.IWalletAdapter
 import vsys.VsysWallet
 
 class VsysWalletAdapter : IWalletAdapter {
